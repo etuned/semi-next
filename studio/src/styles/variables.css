@@ -1,0 +1,41 @@
+@import url('https://fonts.googleapis.com/css2?family=M+PLUS+Rounded');
+
+
+:root {
+  /* Base */
+  --black: #121923;
+  --white: #fff;
+  --gray-base: #7b8ca8;
+
+  /* Brand */
+  --brand-primary: #0e4d0e;
+  --brand-primary--inverted: #fff;
+  --brand-secondary: #ca8c06;
+  --brand-secondary--inverted: #ffffff;
+
+  /* Focus */
+  --focus-color: #246851;
+
+  /* Gray */
+  --gray-darkest: #262f3d;
+  --gray-darker: #3c4758;
+  --gray-dark: #66758d;
+  --gray: #9eabbe;
+  --gray-light: #95a3b9;
+  --gray-ligther: #cad1dc;
+  --gray-lightest: #e4e8ed;
+
+  /* Navbar */
+  --main-navigation-color: #112b1b;
+  --main-navigation-color--inverted: #fff;
+
+  /* Selectable item */
+  --selectable-item-color-hover: #1b5f5067;
+  --selectable-item-color-focus: #1b5f506c;
+  --selectable-item-color-active: #1b5f507a;
+  --selectable-item-color-highlighted: #18302b79;
+
+  /* Topography */
+  --font-family-base: 'M PLUS Rounded 1c', sans-serif;
+
+}
